@@ -5,7 +5,7 @@
 </head>
 <body>
 <div align="center">
-    <h1>Login Form</h1>
+    <h1>Registration Form</h1>
     <form action="<%=request.getContextPath()%>/employee-controller" method="post">
         <table style="width: 100%">
             <tr>
