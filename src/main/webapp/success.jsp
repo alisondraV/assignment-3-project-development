@@ -2,7 +2,7 @@
 <%@ page import="Util.*" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Success</title>
 </head>
 <body>
 <div align="center">
